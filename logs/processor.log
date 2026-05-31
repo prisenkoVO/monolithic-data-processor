@@ -1,0 +1,10 @@
+2026-06-01 00:17:34,029 - INFO - Database initialized successfully
+2026-06-01 00:17:34,029 - INFO - Loading CSV file: /Users/vyacheslav.prisenko/work/vyacheslav.prisenko/nebuis-ai-course/monolithic-data-processor/tmp/equivalence_check/refactored/input/sample.csv
+2026-06-01 00:17:34,032 - INFO - Starting data cleaning
+2026-06-01 00:17:34,038 - INFO - Applying transformation: standard
+2026-06-01 00:17:34,040 - INFO - Loading JSON file: /Users/vyacheslav.prisenko/work/vyacheslav.prisenko/nebuis-ai-course/monolithic-data-processor/tmp/equivalence_check/refactored/input/sample.json
+2026-06-01 00:17:34,041 - INFO - Starting data cleaning
+2026-06-01 00:17:34,042 - INFO - Applying transformation: standard
+2026-06-01 00:17:34,815 - INFO - Report generated: /Users/vyacheslav.prisenko/work/vyacheslav.prisenko/nebuis-ai-course/monolithic-data-processor/tmp/equivalence_check/refactored/reports/summary_report_20260601_001734.txt
+2026-06-01 00:17:34,815 - INFO - Report generated: /Users/vyacheslav.prisenko/work/vyacheslav.prisenko/nebuis-ai-course/monolithic-data-processor/tmp/equivalence_check/refactored/reports/detailed_report_20260601_001734.html
+2026-06-01 00:17:34,817 - INFO - Backup created: backups/backup_20260601_001734

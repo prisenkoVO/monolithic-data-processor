@@ -1,0 +1,68 @@
+DATA PROCESSING SUMMARY REPORT
+==================================================
+
+Generated: 2026-06-01 00:17:34
+
+PROCESSING STATISTICS:
+-------------------------
+total_rows: 6
+total_columns: 10
+memory_usage: 914
+id_mean: 5.5
+id_median: 4.5
+id_std: 4.135214625627067
+id_min: 1
+id_max: 11
+id_null_count: 0
+value_mean: 47.5
+value_median: 27.5
+value_std: 41.20072814890533
+value_min: 10.0
+value_max: 100.0
+value_null_count: 0
+quality_score_mean: 0.8422327423780818
+quality_score_median: 0.8734780338804072
+quality_score_std: 0.08667364077427347
+quality_score_min: 0.7066492781998622
+quality_score_max: 0.9354274187059637
+quality_score_null_count: 0
+id_standardized_mean: 0.0
+id_standardized_median: 0.0
+id_standardized_std: 0.8944271909999157
+id_standardized_min: -1.0954451150103321
+id_standardized_max: 1.0954451150103321
+id_standardized_null_count: 0
+value_standardized_mean: 0.0
+value_standardized_median: 0.14638501094227996
+value_standardized_std: 0.9999999999999998
+value_standardized_min: -1.3174650984805196
+value_standardized_max: 1.0246950765959597
+value_standardized_null_count: 2
+feature_sum_mean: 53.84223274237808
+feature_sum_median: 34.37162221139045
+feature_sum_std: 45.5289279728171
+feature_sum_min: 9.465628392337857
+feature_sum_max: 112.64253419989252
+feature_sum_null_count: 0
+feature_mean_mean: 12.623797187616498
+feature_mean_median: 6.87432444227809
+feature_mean_std: 11.932369145584175
+feature_mean_min: 1.8931256784675714
+feature_mean_max: 28.16063354997313
+feature_mean_null_count: 0
+feature_std_mean: 22.232615187538954
+feature_std_median: 11.642326981426164
+feature_std_std: 20.401854148347386
+feature_std_min: 4.658001722715419
+feature_std_max: 48.566190283002165
+feature_std_null_count: 0
+category_unique_count: 5
+category_most_common: b
+category_null_count: 0
+overall_quality_score: 0.8422327423780818
+completeness_ratio: 0.9666666666666667
+
+FILES PROCESSED:
+--------------------
+File: /Users/vyacheslav.prisenko/work/vyacheslav.prisenko/nebuis-ai-course/monolithic-data-processor/tmp/equivalence_check/refactored/input/sample.csv, Rows: 6, Time: 2026-05-31 22:17:34
+File: /Users/vyacheslav.prisenko/work/vyacheslav.prisenko/nebuis-ai-course/monolithic-data-processor/tmp/equivalence_check/refactored/input/sample.json, Rows: 3, Time: 2026-05-31 22:17:34

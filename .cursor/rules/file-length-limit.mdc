@@ -1,0 +1,32 @@
+---
+description: Keep source files under 400 lines
+alwaysApply: true
+---
+
+# File Length Limit
+
+Keep files under 400 lines.
+
+## Requirement
+
+- Do not create or expand files beyond 400 lines.
+- If a file approaches this limit, split logic into focused modules.
+
+## Preferred Refactors
+
+- Extract helper functions to `*_utils` files.
+- Move domain logic into service or processor modules.
+- Split large classes into smaller classes with one responsibility.
+
+## Example
+
+```python
+# Instead of one large monolithic file:
+# monolithic_data_processor.py (520 lines)  # ❌
+
+# Split into focused modules:               # ✅
+# data_loader.py
+# data_transformer.py
+# data_validator.py
+# report_generator.py
+```
